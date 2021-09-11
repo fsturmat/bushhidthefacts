@@ -1,0 +1,5 @@
+C:\Users\fstur\Documents\SharpDevelop Projects\bushhidthefacts\bushhidthefacts\bin\Debug\bushhidthefacts.exe
+C:\Users\fstur\Documents\SharpDevelop Projects\bushhidthefacts\bushhidthefacts\bin\Debug\bushhidthefacts.pdb
+C:\Users\fstur\Documents\SharpDevelop Projects\bushhidthefacts\bushhidthefacts\obj\Debug\bushhidthefacts.csprojResolveAssemblyReference.cache
+C:\Users\fstur\Documents\SharpDevelop Projects\bushhidthefacts\bushhidthefacts\obj\Debug\bushhidthefacts.exe
+C:\Users\fstur\Documents\SharpDevelop Projects\bushhidthefacts\bushhidthefacts\obj\Debug\bushhidthefacts.pdb
